@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <cstdlib> // For rand() and srand()
+#include <cstdlib> 
 #include <ctime> // For time()
 #include <iomanip>  // For std::setw, std::setprecision
 namespace StockSim { // Namespace to encapsulate stock simulation classes
