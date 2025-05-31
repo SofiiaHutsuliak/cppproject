@@ -3,7 +3,7 @@
 #include <string>
 #include <cstdlib> 
 #include <ctime> // For time()
-#include <iomanip>  // For std::setw, std::setprecision
+#include <iomanip> 
 namespace StockSim { // Namespace to encapsulate stock simulation classes
 using namespace std;
 
